@@ -20,8 +20,6 @@ If you haven't done the free course yet — do it first. This quiz is designed t
 
 - ✅ 108 questions covering all course topics
 - ✅ Questions are randomised every time you start
-- ✅ Multi-select questions (choose 2) are fully supported
-- ✅ Instant feedback and explanations after every answer
 - ✅ Full review of all answers at the end
 - ✅ No login, no ads, no tracking — just open and use
 
